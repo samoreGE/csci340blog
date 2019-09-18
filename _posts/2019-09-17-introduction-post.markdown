@@ -12,7 +12,7 @@ All that being said, I must admit that my execution of the instructions does not
 
 1. Lack of familiarity with the basic functions of the console
 2. Confusion about the specific usage of jekyll (sadly, [the site][jekyll-site] wasn't much help)
-3. Confusion about the purpose of Ruby (again, [the ruby site][ruby-site] didn't clear too much up.	
+3. Confusion about the purpose of Ruby (again, [the ruby site][ruby-site] didn't clear too much up.)
 
 
 [jekyll-site]: https://jekyllrb.com/
