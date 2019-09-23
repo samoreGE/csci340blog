@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey! my name is Griffith Samore, and this is my website. I'm a student in Dr. Goadrich's class my first semester of my Junior year, and to wmake sure we know how to use Jekyll and Ruby to make a website. Interested in Jekyll? find out more at [jekyllrb.com](https://jekyllrb.com/)!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The theme I used for this blog is [Long Haul](http://brianmaierjr.com/long-haul) by [Brian Maier Jr.](https://brianmaierj)
