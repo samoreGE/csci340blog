@@ -7,3 +7,4 @@ categories: jekyll update
 This week, I needed to model the auction in both Draw.io and Vertabello, the results of which may be seen below.
 
 ![Draw.io chart](https://raw.githubusercontent.com/samoreGE/csci340blog/master/assets/img/drawio.png "Draw.io chart")
+![Vertabello chart](https://raw.githubusercontent.com/samoreGE/csci340blog/master/assets/img/vertabello.png "Vertabello chart")
