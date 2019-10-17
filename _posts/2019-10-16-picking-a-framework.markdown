@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Picking a framework"
-date:   2019-10-16 18:3:080 -0500
+date:   2019-10-16 18:30:00 -0500
 categories: jekyll update
 ---
 This last week and a half has consisted of learning about the various frameworks we could use to create our websites. After all teams had presented, my team met to discuss which ones we prefered to work with. Listed below, in ascending order of preference, is an overview of each of the frameworks.
