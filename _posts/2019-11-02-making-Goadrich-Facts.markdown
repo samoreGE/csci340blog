@@ -13,6 +13,7 @@ Combining the APIs was surprisingly easy. We used Dicebear Avatars and the ICNDB
  
 Dicebear returned a unique avatar simply by setting a URL containing a seed string near the end as the src for an img HTML tag, greatsly simplifying the way the code looks in the end.
 
-The ICNDB was a bit tougher, but once we extracted the data from the JSON output, it wasn't too tough to put the jokes into the HTML. Something we noticed in the API is that we could filter to only "nerdy" jokes, as well as change the name 
+The ICNDB was a bit tougher, but once we extracted the data from the JSON output, it wasn't too tough to put the jokes into the HTML. Something we noticed in the API is that we could filter to only "nerdy" jokes, as well as change the name used. Using this, we decided to make our site an homage to the best CSCI 340 teacher we've had.
 
+Of all the things I enjoyed completing, managing to append entire new chunks of HTML code as new robots/facts, then moving recursively through each of those generated tags was both challenging and fulfilling.
 [goadrich-facts]: https://privateeye421.github.io/Goadrich-Facts/
